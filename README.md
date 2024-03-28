@@ -1,4 +1,4 @@
-##A simple project to practice working in git
+## A simple project to practice working in git
 Working solely in git to
 - initiate repository
   - connect repository to github
@@ -6,6 +6,6 @@ Working solely in git to
 - create branches
     - working in tiers of main -> dev -> feature
 - merge branches
-  - solve merge conlicts locally
-- rebase branch
+  - solve merge conflicts locally
+- rebase
 - cherry-pick
