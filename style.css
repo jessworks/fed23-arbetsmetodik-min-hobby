@@ -1,16 +1,15 @@
 body {
     background-color: #fff2cc;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
     padding-left: 20%;
-    font-family: 'Urbanist', sans-serif;
     text-transform: uppercase;
     border-bottom: 1px solid #a47551;
 }
 
 main {
-    font-family: 'Tajawal', sans-serif;
     padding-left: 20%;
     padding-right: 20%;
 }
