@@ -1,0 +1,17 @@
+body {
+    background-color: #fff2cc;
+}
+
+header {
+    border-bottom: 1px solid #a47551;
+    font-family: 'Urbanist', sans-serif;
+    text-transform: uppercase;
+}
+
+main {
+    font-family: 'Tajawal', sans-serif;
+}
+
+h1, h2, p {
+    color: #29190e; 
+}
