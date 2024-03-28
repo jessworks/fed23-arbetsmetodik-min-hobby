@@ -1,4 +1,4 @@
-#A simple project to practice working in git
+##A simple project to practice working in git
 Working solely in git to
 - initiate repository
   - connect repository to github
